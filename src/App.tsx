@@ -230,7 +230,7 @@ export default function App() {
       <OmniDeskWidget
         host="https://omni-desk-rho.vercel.app"
         businessId="biz_demo_dental"
-        agentId="agent_5e74813381884bb8b82f881b6db66aaf"
+        agentId="agent_6e8ae0f0f2a24f8e88bf8c6f74e7c794"
         theme="dark"
         accent="#18181b"
         position="bottom-right"
