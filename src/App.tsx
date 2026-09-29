@@ -231,7 +231,7 @@ export default function App() {
         host="https://omni-desk-rho.vercel.app"
         businessId="biz_demo_dental"
         agentId="agent_6e8ae0f0f2a24f8e88bf8c6f74e7c794"
-        theme="dark"
+        theme="light"
         accent="#18181b"
         position="bottom-right"
         label="Talk to Receptionist"
