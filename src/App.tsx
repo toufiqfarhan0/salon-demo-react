@@ -211,10 +211,26 @@ export default function App() {
       {/* ==================================================================== */}
       {/* OmniDesk Voice Receptionist Widget (Official React Component)        */}
       {/* ==================================================================== */}
+      {/*
+        ⚠️  WARNING: AGENT ID NOTICE
+        ─────────────────────────────────────────────────────────────────────
+        The `agentId` below is the LIVE AssemblyAI agent for
+        "OmniDesk Hair Salon" configured in your dashboard.
+
+        Before deploying or testing:
+          1. Verify this ID in your AssemblyAI dashboard under Voice Agents.
+          2. Cross-check it with your OmniDesk dashboard business settings.
+          3. Test the widget using the OmniDesk Live Tester before going live.
+
+        If you change the agent voice or settings in the AssemblyAI dashboard,
+        the change applies to this widget automatically (same ID).
+        If you CREATE a NEW agent, you must update `agentId` here manually.
+        ─────────────────────────────────────────────────────────────────────
+      */}
       <OmniDeskWidget
         host="https://omni-desk-rho.vercel.app"
         businessId="biz_demo_dental"
-        agentId="agent_6e8ae0f0f2a24f8e88bf8c6f74e7c794"
+        agentId="agent_5e74813381884bb8b82f881b6db66aaf"
         theme="dark"
         accent="#18181b"
         position="bottom-right"
