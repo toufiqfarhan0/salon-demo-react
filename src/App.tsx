@@ -203,7 +203,7 @@ export default function App() {
         <div className="container footer-content">
           <p>&copy; 2026 Lumière Studio &bull; Embedded via <code>npm install omnidesk-voice</code></p>
           <div className="npm-badge">
-            <code>package: omnidesk-voice@0.1.9</code>
+            <code>package: omnidesk-voice@0.1.10</code>
           </div>
         </div>
       </footer>
