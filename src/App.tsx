@@ -203,7 +203,7 @@ export default function App() {
         <div className="container footer-content">
           <p>&copy; 2026 Lumière Studio &bull; Embedded via <code>npm install omnidesk-voice</code></p>
           <div className="npm-badge">
-            <code>package: omnidesk-voice@0.1.10</code>
+            <code>package: omnidesk-voice@0.1.17</code>
           </div>
         </div>
       </footer>
@@ -230,7 +230,7 @@ export default function App() {
       <OmniDeskWidget
         host="https://omni-desk-rho.vercel.app"
         businessId="biz_demo_dental"
-        agentId="agent_6e8ae0f0f2a24f8e88bf8c6f74e7c794"
+        agentId="agent_118183fec8b04d99ac3702e5327ef544"
         theme="light"
         accent="#18181b"
         position="bottom-right"
